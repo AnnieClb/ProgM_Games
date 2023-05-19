@@ -23,7 +23,8 @@ description: Un ensemble de question seras poser au joueur afin de tester sa cul
 Jeu 4 mouvement: '1 2 3 Soleil',
 description: Le jeu est inspiré de la série Squid game. Il consiste à tapoter sur un bouton click le plus de fois possible avant que la poupée ne finisse de compter jusqu'à 3 et se retourne au soleil;
           
-Jeu 5 capteur: "C'est noel",
+Jeu 5 capteur: "C'est noel"
+
 description:il consiste à collectionner des girlandes pour construire ton sapin. ATTENTION!! evites les bombes',
 
 Jeu 6 capteur: 'Morpion',
