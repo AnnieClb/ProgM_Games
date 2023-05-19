@@ -12,23 +12,22 @@ Nous avons decidé de les developper en flutter.
 *Descriptif des différents jeux*
 
 Jeu 1 Quiz:'Connais-tu le monde',
-description: C'est un jeu à choix multiple.Un drapeau est proposé au joueur et  il devra trouvé le nom du pays parmi 3 réponses qui lui seront proposées;
+C'est un jeu à choix multiple.Un drapeau est proposé au joueur et  il devra trouvé le nom du pays parmi 3 réponses qui lui seront proposées;
 
 Jeu 2 mouvement: 'Flappy Bird',
-description: C'est un jeu de mouvement qui consiste à dépasser les obstacles en tapotant l'écran afin de ne pas tuer l'oiseau;
+ C'est un jeu de mouvement qui consiste à dépasser les obstacles en tapotant l'écran afin de ne pas tuer l'oiseau;
 
 Jeu 3 Quiz: 'Culture Générale',
-description: Un ensemble de question seras poser au joueur afin de tester sa culture générale. Grâce au clavier, il devra lui même entrer les éléments de reponse;
+ Un ensemble de question seras poser au joueur afin de tester sa culture générale. Grâce au clavier, il devra lui même entrer les éléments de reponse;
 
 Jeu 4 mouvement: '1 2 3 Soleil',
-description: Le jeu est inspiré de la série Squid game. Il consiste à tapoter sur un bouton click le plus de fois possible avant que la poupée ne finisse de compter jusqu'à 3 et se retourne au soleil;
+ Le jeu est inspiré de la série Squid game. Il consiste à tapoter sur un bouton click le plus de fois possible avant que la poupée ne finisse de compter jusqu'à 3 et se retourne au soleil;
           
-Jeu 5 capteur: "C'est noel"
-
-description:il consiste à collectionner des girlandes pour construire ton sapin. ATTENTION!! evites les bombes',
+Jeu 5 capteur: "C'est noel" 
+ il consiste à collectionner des girlandes pour construire ton sapin. ATTENTION!! evites les bombes',
 
 Jeu 6 capteur: 'Morpion',
-description: il consiste à aligner 3 gadgets de même nature pour gagner;
+ il consiste à aligner 3 gadgets de même nature pour gagner;
 
 *Cahier de charge du projet*
 
