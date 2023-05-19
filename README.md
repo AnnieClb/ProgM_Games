@@ -1,5 +1,6 @@
 # ProgM_Games
 Dépôt de notre application de jeux mobile
+
 Membres du groupe (ESIR2-IOT): Yelli COULIBALY - Gloria MONTCHO 
 
 Notre projet de programmation mobile consistait à créer une application de jeu regroupant 6 jeux de 3 catégories différentes:
